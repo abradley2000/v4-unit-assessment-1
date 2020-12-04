@@ -1,0 +1,110 @@
+html, body {
+    margin: 0;
+}
+header {
+    background-color: #89FCD6;
+    padding: 20px;
+}
+h1 {
+    margin: 0;
+}
+.rectangles {
+    margin: 15px;
+    border: 2px dotted #464288;
+    margin-top: 0;
+}
+.rectangle1 {
+    margin: 15px;
+    background-color: #48187F;
+    border: 3px solid #FA2D27;
+    height: 86px;
+    width: 200px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.rectangle2 {
+    margin: 15px;
+    background-color: #0035F8;
+    height: 86px;
+    width: 86px;
+    display: inline-block;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px black;
+}
+.rectangle3 {
+    margin: 15px;
+    background-color: #D77493;
+    border: 1px solid black;
+    height: 192px;
+    width: 192px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.circles {
+    margin: 15px;
+    padding: 10px;
+    margin-top: 0;
+    border: 2px dotted #464288;
+}
+.circletop {
+    margin-left: 20px;
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.circlemiddle {
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 60px;
+}
+.circlebottom {
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+    border-radius: 75px;
+}
+.everything {
+    margin: 15px;
+    padding: 10px;
+    margin-top: 0;
+    border: 2px dotted #464288;
+}
+.outerbox {
+    width: 200px;
+    height: 200px;
+    background-color: #F5F4DE;
+    border: 1px solid black;
+}
+.outercircle {
+    width: 160px;
+    height: 160px;
+    background-color: #1C7D1A;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+.innerbox {
+    margin: 25px;
+    width: 110px;
+    height: 110px;
+    background-color: #A22F2E;
+}
+.innercircle {
+    width: 90px;
+    height: 90px;
+    background-color: #0035F8;
+    border-radius: 60px;
+}
+.everythingtext {
+    color: white;
+    text-align: center;
+    font-size: .9em;
+    display: block;
+}
+h2 {
+    margin: 0;
+    margin-left: 15px;
+    margin-top: 15px;
+}

@@ -15,7 +15,7 @@ header {
     background-color: #EC8382;
     border: 1px solid black;
 }
-section {
+div {
     margin: 2%;
     padding: 2%;
     border: 4px dotted black; 
@@ -26,5 +26,6 @@ section {
 }
 .cssimg {
     float: right;
+    clear: left;
     width: 150px;
 }

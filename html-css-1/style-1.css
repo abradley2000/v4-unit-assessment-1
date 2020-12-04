@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+}
+h1, nav, h2 {
+    display: inline-block;
+}
+h1, h2 {
+    margin: 20px;
+}
+h2 {
+    font-weight: normal;
+}
+header {
+    padding-top: 40px;
+    background-color: #EC8382;
+    border: 1px solid black;
+}
+section {
+    margin: 2%;
+    padding: 2%;
+    border: 4px dotted black; 
+}
+.htmlimg {
+    float: left;
+    width: 150px;
+}
+.cssimg {
+    float: right;
+    width: 150px;
+}
